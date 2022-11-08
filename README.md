@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @dinoroca
+- 🎓 I'm study sistems engineering at UNSCH
 - 👀 I’m interested in web applications/pages development
 - 🌱 I’m currently learning Spring-boot & Angular
 - 📫 How to reach me: write to rocalaurented@gmail.com
